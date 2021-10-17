@@ -1,6 +1,6 @@
 ### Hi, I'm [@yukinissie](https://twitter.com/yukinissie)! 👋
 
-🌱 I’m currently learning Terraform & Go.<>
+🌱 I’m currently learning Terraform & Go.<br>
 🏫 I am a fourth year student in the Faculty of Information Technology.
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display:block">
