@@ -18,6 +18,9 @@ These are the diagrams of the systems I have recently built.<br>
 Uh, well, I haven't coded it yet 😂
 
 ### A web application.
+![RustKnock drawio](https://user-images.githubusercontent.com/38881185/153322240-6f4f7dae-7203-4107-8e63-4ce205dd35c3.png)
+
+### A web application.
 ![mYwLIeP](https://user-images.githubusercontent.com/38881185/137230199-98ddb642-27a0-4423-851b-14c56710a49b.png)
 
 ### A WebGL game.
