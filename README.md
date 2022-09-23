@@ -1,6 +1,6 @@
-### Hi, I'm [@yukinissie](https://twitter.com/yukinissie)! 👋
+### Hi, I'm [ニッシー☆@yukinissie](https://twitter.com/yukinissie)! 👋
 
-🌱 I’m currently learning Terraform & Go.<br>
+🌱 I’m currently learning Next.js & Kotlin.<br>
 🏫 I am a fourth year student in the Faculty of Information Technology.
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display:block">
@@ -14,7 +14,9 @@
 
 <hr>
 
-These are the diagrams of the systems I have recently built.<br>
+## Infrastructure diagrams
+
+These are diagrams of the infrastructure I designed and built.<br>
 Uh, well, I haven't coded it yet 😂
 
 ### A WebGL game and a static web. ([ハックツハッカソン プテラカップ](https://hackz-community.doorkeeper.jp/events/139666)（2022/09）)
