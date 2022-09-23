@@ -32,7 +32,7 @@ Uh, well, I haven't coded it yet 😂
 ### A web application. （[佐賀＊Azureハッカソンvol.1](https://hackz.connpass.com/event/235831/)(2022/02)）
 ![RustKnock drawio](https://user-images.githubusercontent.com/38881185/192002120-0d074277-69f7-4341-83ae-df2528379b63.png)
 
-### A web application. ([ハックツハッカソン スピのカップ](https://cup.hackz.team/spino/)(2021/09))
+### A web application. ([ハックツハッカソン スピノカップ](https://cup.hackz.team/spino/)(2021/09))
 ![mYwLIeP](https://user-images.githubusercontent.com/38881185/137230199-98ddb642-27a0-4423-851b-14c56710a49b.png)
 
 ### A WebGL game. （[先輩の背中ハッカソンvol.1](https://hackz.connpass.com/event/217791/)(2021/07)）
