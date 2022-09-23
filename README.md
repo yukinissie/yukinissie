@@ -31,7 +31,7 @@ Uh, well, I haven't coded it yet 😂
 ### A web application. （[ハックツハッカソン ギガノトカップ](https://cup.hackz.team/giganoto/)(2022/03)）
 ![Giganoto drawio](https://user-images.githubusercontent.com/38881185/191999188-7949fc7c-c943-44e6-9b0d-27db90e827a8.png)
 
-### A web application. （[佐賀＊Azureハッカソンvol.1](https://hackz.connpass.com/event/235831/)(2022/02)）
+### A web application. （[佐賀＊Azureハッカソンvol.1](https://hackz.team/news/2NI9kKjmcoVfALGaw2luVR)(2022/02)）
 ![RustKnock drawio](https://user-images.githubusercontent.com/38881185/192002120-0d074277-69f7-4341-83ae-df2528379b63.png)
 
 ### A web application. ([ハックツハッカソン スピノカップ](https://cup.hackz.team/spino/)(2021/09))
@@ -46,5 +46,5 @@ Uh, well, I haven't coded it yet 😂
 ### A slack bot.
 ![E6jJFYPVkAM89JX](https://user-images.githubusercontent.com/38881185/137230248-223335fc-4087-48af-94ff-9436aefb0f4a.png)
 
-### A web application. ([ハックツハッカソン　プレシオ杯](https://hackz.connpass.com/event/192814/)(2020/12))
+### A web application. ([ハックツハッカソン　プレシオ杯](https://plesio.hackz.team/)(2020/12))
 ![01F0YZPZ27DQDWBXP06YG6FXTK](https://user-images.githubusercontent.com/38881185/137230252-1ea6d34e-fe22-4034-b517-ae9a7bd53bcc.png)
